@@ -7,7 +7,8 @@
     "command": "ts-node src/command",
     "strategy": "ts-node src/strategy",
     "facade": "ts-node src/facade",
-    "singleton": "ts-node src/singleton"
+    "singleton": "ts-node src/singleton",
+    "adapter": "ts-node src/adapter"
   },
   "repository": {
     "type": "git",
