@@ -8,7 +8,8 @@
     "strategy": "ts-node src/strategy",
     "facade": "ts-node src/facade",
     "singleton": "ts-node src/singleton",
-    "adapter": "ts-node src/adapter"
+    "adapter": "ts-node src/adapter",
+    "observer": "ts-node src/observer"
   },
   "repository": {
     "type": "git",
