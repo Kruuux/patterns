@@ -9,7 +9,8 @@
     "facade": "ts-node src/facade",
     "singleton": "ts-node src/singleton",
     "adapter": "ts-node src/adapter",
-    "observer": "ts-node src/observer"
+    "observer": "ts-node src/observer",
+    "factory": "ts-node src/factory"
   },
   "repository": {
     "type": "git",
