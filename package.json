@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kruuux/patterns/issues"
   },
-  "homepage": "https://github.com/Kruuux/patterns#readme"
+  "homepage": "https://github.com/Kruuux/patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
