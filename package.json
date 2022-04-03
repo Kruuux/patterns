@@ -4,7 +4,7 @@
   "description": "Notes on design patterns",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint . --ext .ts --fix"
+    "command": "ts-node src/command"
   },
   "repository": {
     "type": "git",
