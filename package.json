@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kruuux/patterns#readme",
   "devDependencies": {
+    "ts-node": "^10.7.0",
     "typescript": "^4.6.3"
   }
 }
