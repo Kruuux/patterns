@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "command": "ts-node src/command",
-    "strategy": "ts-node src/strategy"
+    "strategy": "ts-node src/strategy",
+    "facade": "ts-node src/facade"
   },
   "repository": {
     "type": "git",
