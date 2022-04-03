@@ -6,7 +6,8 @@
   "scripts": {
     "command": "ts-node src/command",
     "strategy": "ts-node src/strategy",
-    "facade": "ts-node src/facade"
+    "facade": "ts-node src/facade",
+    "singleton": "ts-node src/singleton"
   },
   "repository": {
     "type": "git",
