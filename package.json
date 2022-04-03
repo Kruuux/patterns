@@ -4,7 +4,8 @@
   "description": "Notes on design patterns",
   "main": "index.js",
   "scripts": {
-    "command": "ts-node src/command"
+    "command": "ts-node src/command",
+    "strategy": "ts-node src/strategy"
   },
   "repository": {
     "type": "git",
