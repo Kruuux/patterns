@@ -11,7 +11,8 @@
     "adapter": "ts-node src/adapter",
     "observer": "ts-node src/observer",
     "factory": "ts-node src/factory",
-    "abstractFactory": "ts-node src/abstractFactory"
+    "abstractFactory": "ts-node src/abstractFactory",
+    "template": "ts-node src/template"
   },
   "repository": {
     "type": "git",
