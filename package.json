@@ -10,7 +10,8 @@
     "singleton": "ts-node src/singleton",
     "adapter": "ts-node src/adapter",
     "observer": "ts-node src/observer",
-    "factory": "ts-node src/factory"
+    "factory": "ts-node src/factory",
+    "abstractFactory": "ts-node src/abstractFactory"
   },
   "repository": {
     "type": "git",
