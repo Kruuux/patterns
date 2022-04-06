@@ -12,7 +12,8 @@
     "observer": "ts-node src/observer",
     "factory": "ts-node src/factory",
     "abstractFactory": "ts-node src/abstractFactory",
-    "template": "ts-node src/template"
+    "template": "ts-node src/template",
+    "decorator": "ts-node src/decorator"
   },
   "repository": {
     "type": "git",
