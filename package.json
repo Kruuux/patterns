@@ -17,7 +17,8 @@
     "nullObject": "ts-node src/nullObject",
     "proxy": "ts-node src/proxy",
     "state": "ts-node src/state",
-    "bridge": "ts-node src/bridge"
+    "bridge": "ts-node src/bridge",
+    "iterator": "ts-node src/iterator"
   },
   "repository": {
     "type": "git",
