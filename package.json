@@ -16,7 +16,8 @@
     "decorator": "ts-node src/decorator",
     "nullObject": "ts-node src/nullObject",
     "proxy": "ts-node src/proxy",
-    "state": "ts-node src/state"
+    "state": "ts-node src/state",
+    "bridge": "ts-node src/bridge"
   },
   "repository": {
     "type": "git",
