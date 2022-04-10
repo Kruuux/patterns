@@ -18,7 +18,8 @@
     "proxy": "ts-node src/proxy",
     "state": "ts-node src/state",
     "bridge": "ts-node src/bridge",
-    "iterator": "ts-node src/iterator"
+    "iterator": "ts-node src/iterator",
+    "composite": "ts-node src/composite"
   },
   "repository": {
     "type": "git",
